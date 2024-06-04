@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "name": "Asta",
+      "power": "Devil"
+    },
+    {
+      "id": "2",
+      "name": "Nolle",
+      "power": "Water"
+    },
+    {
+      "id":"3",
+      "name":"Luck",
+      "power":"Ligtening"
+    }
+  ]
+}
